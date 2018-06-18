@@ -6,9 +6,11 @@ Steps:
 2. Open terminal and go to the directory where you have dowloaded the file
 3. Unpack all the files in the directory using command.
    $ unzip -a <file_name>.zip
-4. You will get following directories: input, src.
+4. You will get following directories: input, src
+
    $ ls
-5. Create a new directory as 'build' and Go to the 'build' directory as follows: 
+5. Create a new directory as 'build' and Go to the 'build' directory as follows:
+
    $ mkdir build
    
    $ cd build/
@@ -20,6 +22,6 @@ Steps:
 
    $ ./measure_focus ../input/Sequence2/ ../output/
 11. Once you run above commands you will receive a message as "DONE !!!".
-12. An output directory will be created which contains the image with highest relative measure.
+12. An 'output directory will be created which contains the image with highest relative measure.
 
 
