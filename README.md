@@ -15,7 +15,7 @@ Steps:
    use Sequence2 as mentioned below:
 9. $ ./measure_focus ../input/Sequence1/ ../output/ 
 10. $ ./measure_focus ../input/Sequence2/ ../output/
-11. Once you run above commands you will receive a message as "DONE !!!", 
+11. Once you run above commands you will receive a message as "DONE !!!", and 
    You will get an image in the output directory with highest relative measure
 
 
