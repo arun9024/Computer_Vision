@@ -4,10 +4,10 @@ Computing relative focus measure
 Steps:
 1. Open Terminal and run following
 
-   $ git clone https://github.com/arun9024/Computer_Vision.git
+   $ git clone "https://github.com/arun9024/Computer_Vision.git"
 2. Go to the directory where you have dowloaded the file
 
-   cd Computer_Vision
+   $ cd Computer_Vision/
 3. Or, you could download the zip file and Unpack all the files in the directory using command.
 
    $ unzip -a <file_name>.zip
