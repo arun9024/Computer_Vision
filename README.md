@@ -13,9 +13,9 @@ Steps:
 7. $ cmake .. && make
 8. For first set of images use Sequence1 and for second set of images 
    use Sequence2 as mentioned below:
-   $ ./measure_focus ../input/Sequence1/ ../output/ 
-   $ ./measure_focus ../input/Sequence2/ ../output/
-9. Once you run above commands you will receive a message as "DONE !!!", 
+9. $ ./measure_focus ../input/Sequence1/ ../output/ 
+10. $ ./measure_focus ../input/Sequence2/ ../output/
+11. Once you run above commands you will receive a message as "DONE !!!", 
    You will get an image in the output directory with highest relative measure
 
 
