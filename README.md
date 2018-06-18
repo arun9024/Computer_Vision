@@ -1,5 +1,6 @@
 # Computer_Vision
 Computing relative focus measure
+
 Steps:
 1. Download Zip 
 2. Open terminal and go to the directory where you have dowloaded the file
